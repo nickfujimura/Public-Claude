@@ -23,8 +23,9 @@ Washington Post, House Energy & Commerce Committee release).
 | Democrat | 114 | 95 |
 | Independent | 1* | 0* |
 
-\* Inferred: reported party splits (R 193–22, D 114–95) sum to 307 Yea / 117 Nay; the
-chamber totals are 308–117, so the House's one Independent voted Yea.
+\* Originally inferred from the arithmetic (party splits R 193–22 and D 114–95 sum to
+307–117 vs chamber totals of 308–117); now directly confirmed by the official Clerk tally
+page, which lists Kiley (CA) underlined — the Clerk's Independent marker — under Yeas.
 
 ## What the bill does
 
