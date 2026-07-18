@@ -3,43 +3,23 @@
 and compute age/tenure statistics by vote position.
 
 Inputs:
-  raw/votes/roll238.xml   — official Clerk XML (https://clerk.house.gov/evs/2026/roll238.xml)
+  raw/votes/roll238_votes.csv — per-member votes parsed from the official Clerk page
+                                by raw/votes/parse_roll238.py
   raw/members/house_members.csv — demographics from unitedstates/congress-legislators
 
 Outputs (written next to this script):
-  roll238_votes.csv       — per-member parsed vote (bioguide_id, name, party, state, vote)
   vote_age_stats.csv      — age/tenure stats (mean/median/min/max) per vote position
   vote_age_stats.md       — human-readable stats tables, crosstabs, and superlatives
 """
 import csv
 import statistics
 import sys
-import xml.etree.ElementTree as ET
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-XML_PATH = HERE.parent / "raw" / "votes" / "roll238.xml"
+VOTES_PATH = HERE.parent / "raw" / "votes" / "roll238_votes.csv"
 MEMBERS_PATH = HERE.parent / "raw" / "members" / "house_members.csv"
 EXPECTED = {"Yea": 308, "Nay": 117, "Present": 0, "Not Voting": 6}
-
-
-def parse_votes(xml_path: Path):
-    tree = ET.parse(xml_path)
-    root = tree.getroot()
-    meta = {el.tag: (el.text or "").strip() for el in root.find("vote-metadata")}
-    votes = []
-    for rv in root.find("vote-data").findall("recorded-vote"):
-        leg = rv.find("legislator")
-        votes.append(
-            {
-                "bioguide_id": leg.get("name-id"),
-                "name": (leg.text or leg.get("sort-field") or "").strip(),
-                "party": leg.get("party"),
-                "state": leg.get("state"),
-                "vote": rv.find("vote").text.strip(),
-            }
-        )
-    return meta, votes
 
 
 def stats_block(values):
@@ -55,12 +35,10 @@ def stats_block(values):
 
 
 def main():
-    if not XML_PATH.exists():
-        sys.exit(
-            f"Missing {XML_PATH}.\nDownload https://clerk.house.gov/evs/2026/roll238.xml "
-            "in a browser (blocked from this execution environment) and save it there, then re-run."
-        )
-    meta, votes = parse_votes(XML_PATH)
+    if not VOTES_PATH.exists():
+        sys.exit(f"Missing {VOTES_PATH}. Run raw/votes/parse_roll238.py first.")
+    with open(VOTES_PATH, newline="") as f:
+        votes = list(csv.DictReader(f))
 
     counts = {}
     for v in votes:
@@ -72,11 +50,6 @@ def main():
     with open(MEMBERS_PATH, newline="") as f:
         members = {row["bioguide_id"]: row for row in csv.DictReader(f)}
 
-    with open(HERE / "roll238_votes.csv", "w", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["bioguide_id", "name", "party", "state", "vote"])
-        w.writeheader()
-        w.writerows(votes)
-
     unmatched = [v for v in votes if v["bioguide_id"] not in members]
     joined = [
         {**v, **members[v["bioguide_id"]]} for v in votes if v["bioguide_id"] in members
@@ -86,7 +59,7 @@ def main():
     rows, md = [], []
     md.append("# Roll Call 238 — age and tenure by vote position\n")
     md.append(f"Vote counts: {counts}. Joined {len(joined)}/{len(votes)} members to demographics"
-              + (f"; UNMATCHED: {[v['bioguide_id'] + ' ' + v['name'] for v in unmatched]}" if unmatched else ".") + "\n")
+              + (f"; UNMATCHED: {[v['bioguide_id'] + ' ' + v['name_as_listed'] for v in unmatched]}" if unmatched else ".") + "\n")
 
     md.append("| Vote | n | Mean age | Median age | Min age | Max age | Mean tenure (yrs) | Median tenure |")
     md.append("|---|---|---|---|---|---|---|---|")
@@ -142,7 +115,7 @@ def main():
         w.writeheader()
         w.writerows(rows)
     (HERE / "vote_age_stats.md").write_text("\n".join(md) + "\n")
-    print(f"Wrote roll238_votes.csv, vote_age_stats.csv, vote_age_stats.md. Counts: {counts}")
+    print(f"Wrote vote_age_stats.csv, vote_age_stats.md. Counts: {counts}")
     if unmatched:
         print(f"Unmatched bioguide IDs: {unmatched}", file=sys.stderr)
 

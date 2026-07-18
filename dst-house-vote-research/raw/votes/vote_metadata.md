@@ -39,15 +39,24 @@ Rep. Scott DesJarlais (R-TN), presiding over the vote, played the Beatles'
 
 ## Per-member data status
 
-The official per-member XML (https://clerk.house.gov/evs/2026/roll238.xml) could **not** be
-retrieved from this session: the execution environment's network egress policy blocks
-clerk.house.gov, govtrack.us, voteview.com, congress.gov, govinfo.gov, c-span.org,
-web.archive.org, and news/wiki mirrors (HTTP 403 policy denials at the proxy), and no
-GitHub-hosted mirror of 2026 roll call data exists. When the XML is obtained (browser
-download of the URL above), save it as `raw/votes/roll238.xml` and run
-`python3 synthesis/compute_stats.py` to generate the per-member CSV and age-by-vote
-statistics. An earlier agent run produced *mock* per-member data as a placeholder; it was
-deleted to avoid any chance of fabricated data being mistaken for real votes.
+**Complete.** The execution environment's network egress policy blocks clerk.house.gov
+(and every mirror: govtrack.us, voteview.com, congress.gov, govinfo.gov, c-span.org,
+web.archive.org, news/wiki sites), so the per-member data could not be fetched directly.
+The user uploaded a Safari webarchive of the official Clerk page
+(https://clerk.house.gov/evs/2026/roll238.xml as rendered by the Clerk's site —
+"Final Vote Results for Roll Call 238") to the branch. Pipeline:
+
+1. `Final Vote Results for Roll Call 238.webarchive` — user-supplied official Clerk page
+2. `roll238_clerk_page.html` — HTML payload extracted from the webarchive
+3. `parse_roll238.py` — parses the Clerk page (roman = Republican, *italic* = Democrat,
+   underline = Independent; "(ST)"/"Last, First" disambiguators) and joins each of the
+   431 voting members to a Bioguide ID via `raw/members/legislators-current.json`
+4. `roll238_votes.csv` — the result; validated to exactly match the official chamber
+   totals (308–117–0–6) **and** the official party table (R 193/22/3, D 114/95/3, I 1 Yea),
+   with 431 unique members and zero unmatched names
+
+An earlier agent run produced *mock* per-member data as a placeholder; it was deleted to
+avoid any chance of fabricated data being mistaken for real votes.
 
 ## Sources
 
