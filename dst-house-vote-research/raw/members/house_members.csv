@@ -1,0 +1,438 @@
+bioguide_id,full_name,state,district,party,gender,birthday,age_at_vote,first_house_term_start,house_tenure_years,total_terms
+B001323,Nicholas J. Begich III,AK,0,Republican,M,1977-10-21,48.7,2025-01-03,1.5,1
+M001212,Barry Moore,AL,1,Republican,M,1966-09-26,59.8,2021-01-03,5.5,3
+F000481,Shomari Figures,AL,2,Democrat,M,1985-09-03,40.9,2025-01-03,1.5,1
+R000575,Mike Rogers,AL,3,Republican,M,1958-07-16,68.0,2003-01-07,23.5,12
+A000055,Robert B. Aderholt,AL,4,Republican,M,1965-07-22,61.0,1997-01-07,29.5,15
+S001220,Dale W. Strong,AL,5,Republican,M,1970-05-08,56.2,2023-01-03,3.5,2
+P000609,Gary J. Palmer,AL,6,Republican,M,1954-05-14,72.2,2015-01-06,11.5,6
+S001185,Terri A. Sewell,AL,7,Democrat,F,1965-01-01,61.5,2011-01-05,15.5,8
+C001087,"Eric A. ""Rick"" Crawford",AR,1,Republican,M,1966-01-22,60.5,2011-01-05,15.5,8
+H001072,J. French Hill,AR,2,Republican,M,1956-12-05,69.6,2015-01-06,11.5,6
+W000809,Steve Womack,AR,3,Republican,M,1957-02-18,69.4,2011-01-05,15.5,8
+W000821,Bruce Westerman,AR,4,Republican,M,1967-11-18,58.7,2015-01-06,11.5,6
+R000600,Aumua Amata Coleman Radewagen,AS,0,Republican,F,1947-12-29,78.5,2015-01-06,11.5,6
+S001183,David Schweikert,AZ,1,Republican,M,1962-03-03,64.4,2011-01-05,15.5,8
+C001132,Elijah Crane,AZ,2,Republican,M,1980-01-03,46.5,2023-01-03,3.5,2
+A000381,Yassamin Ansari,AZ,3,Democrat,F,1992-04-07,34.3,2025-01-03,1.5,1
+S001211,Greg Stanton,AZ,4,Democrat,M,1970-03-08,56.4,2019-01-03,7.5,4
+B001302,Andy Biggs,AZ,5,Republican,M,1958-11-07,67.7,2017-01-03,9.5,5
+C001133,Juan Ciscomani,AZ,6,Republican,M,1982-08-30,43.9,2023-01-03,3.5,2
+G000606,Adelita S. Grijalva,AZ,7,Democrat,F,1970-10-30,55.7,2025-11-12,0.7,1
+H001098,Abraham J. Hamadeh,AZ,8,Republican,M,1991-05-15,35.2,2025-01-03,1.5,1
+G000565,Paul A. Gosar,AZ,9,Republican,M,1958-11-22,67.6,2011-01-05,15.5,8
+G000607,James Gallagher,CA,1,Republican,M,1981-03-07,45.4,2026-06-10,0.1,1
+H001068,Jared Huffman,CA,2,Democrat,M,1964-02-18,62.4,2013-01-03,13.5,7
+K000401,Kevin Kiley,CA,3,Independent,M,1985-01-30,41.5,2023-01-03,3.5,2
+T000460,Mike Thompson,CA,4,Democrat,M,1951-01-24,75.5,1999-01-06,27.5,14
+M001177,Tom McClintock,CA,5,Republican,M,1956-07-10,70.0,2009-01-06,17.5,9
+B001287,Ami Bera,CA,6,Democrat,M,1965-03-02,61.4,2013-01-03,13.5,7
+M001163,Doris O. Matsui,CA,7,Democrat,F,1944-09-25,81.8,2005-03-10,21.3,11
+G000559,John Garamendi,CA,8,Democrat,M,1945-01-24,81.5,2009-11-03,16.7,9
+H001090,Josh Harder,CA,9,Democrat,M,1986-08-01,40.0,2019-01-03,7.5,4
+D000623,Mark DeSaulnier,CA,10,Democrat,M,1952-03-31,74.3,2015-01-06,11.5,6
+P000197,Nancy Pelosi,CA,11,Democrat,F,1940-03-26,86.3,1987-01-06,39.5,20
+S001231,Lateefah Simon,CA,12,Democrat,F,1977-01-29,49.5,2025-01-03,1.5,1
+G000605,Adam Gray,CA,13,Democrat,M,1977-09-23,48.8,2025-01-03,1.5,1
+M001225,Kevin Mullin,CA,15,Democrat,M,1970-06-15,56.1,2023-01-03,3.5,2
+L000607,Sam T. Liccardo,CA,16,Democrat,M,1970-04-16,56.2,2025-01-03,1.5,1
+K000389,Ro Khanna,CA,17,Democrat,M,1976-09-13,49.8,2017-01-03,9.5,5
+L000397,Zoe Lofgren,CA,18,Democrat,F,1947-12-21,78.6,1995-01-04,31.5,16
+P000613,Jimmy Panetta,CA,19,Democrat,M,1969-10-01,56.8,2017-01-03,9.5,5
+F000480,Vince Fong,CA,20,Republican,M,1979-10-24,46.7,2024-06-03,2.1,2
+C001059,Jim Costa,CA,21,Democrat,M,1952-04-13,74.3,2005-01-04,21.5,11
+V000129,David G. Valadao,CA,22,Republican,M,1977-04-14,49.2,2013-01-03,13.5,6
+O000019,Jay Obernolte,CA,23,Republican,M,1970-08-18,55.9,2021-01-03,5.5,3
+C001112,Salud O. Carbajal,CA,24,Democrat,M,1964-11-18,61.7,2017-01-03,9.5,5
+R000599,Raul Ruiz,CA,25,Democrat,M,1972-08-25,53.9,2013-01-03,13.5,7
+B001285,Julia Brownley,CA,26,Democrat,F,1952-08-28,73.9,2013-01-03,13.5,7
+W000830,George Whitesides,CA,27,Democrat,M,1974-03-03,52.4,2025-01-03,1.5,1
+C001080,Judy Chu,CA,28,Democrat,F,1953-07-07,73.0,2009-07-16,17.0,9
+R000620,Luz M. Rivas,CA,29,Democrat,F,1974-02-06,52.4,2025-01-03,1.5,1
+F000483,Laura Friedman,CA,30,Democrat,F,1966-12-03,59.6,2025-01-03,1.5,1
+C001123,"Gilbert Ray Cisneros, Jr.",CA,31,Democrat,M,1971-02-12,55.4,2019-01-03,7.5,2
+S000344,Brad Sherman,CA,32,Democrat,M,1954-10-24,71.7,1997-01-07,29.5,15
+A000371,Pete Aguilar,CA,33,Democrat,M,1979-06-19,47.1,2015-01-06,11.5,6
+G000585,Jimmy Gomez,CA,34,Democrat,M,1974-11-25,51.6,2017-07-11,9.0,5
+T000474,Norma J. Torres,CA,35,Democrat,F,1965-04-04,61.3,2015-01-06,11.5,6
+L000582,Ted Lieu,CA,36,Democrat,M,1969-03-29,57.3,2015-01-06,11.5,6
+K000400,Sydney Kamlager-Dove,CA,37,Democrat,F,1972-07-20,54.0,2023-01-03,3.5,2
+S001156,Linda T. Sánchez,CA,38,Democrat,F,1969-01-28,57.5,2003-01-07,23.5,12
+T000472,Mark Takano,CA,39,Democrat,M,1960-12-10,65.6,2013-01-03,13.5,7
+K000397,Young Kim,CA,40,Republican,F,1962-10-18,63.7,2021-01-03,5.5,3
+C000059,Ken Calvert,CA,41,Republican,M,1953-06-08,73.1,1993-01-05,33.5,17
+G000598,Robert Garcia,CA,42,Democrat,M,1977-12-02,48.6,2023-01-03,3.5,2
+W000187,Maxine Waters,CA,43,Democrat,F,1938-08-15,87.9,1991-01-03,35.5,18
+B001300,Nanette Diaz Barragán,CA,44,Democrat,F,1976-09-15,49.8,2017-01-03,9.5,5
+T000491,Derek Tran,CA,45,Democrat,M,1980-12-22,45.6,2025-01-03,1.5,1
+C001110,J. Luis Correa,CA,46,Democrat,M,1958-01-24,68.5,2017-01-03,9.5,5
+M001241,Dave Min,CA,47,Democrat,M,1976-03-05,50.4,2025-01-03,1.5,1
+I000056,Darrell Issa,CA,48,Republican,M,1953-11-01,72.7,2001-01-03,25.5,12
+L000593,Mike Levin,CA,49,Democrat,M,1978-10-28,47.7,2019-01-03,7.5,4
+P000608,Scott H. Peters,CA,50,Democrat,M,1958-06-17,68.1,2013-01-03,13.5,7
+J000305,Sara Jacobs,CA,51,Democrat,F,1989-02-01,37.4,2021-01-03,5.5,3
+V000130,Juan Vargas,CA,52,Democrat,M,1961-03-07,65.4,2013-01-03,13.5,7
+D000197,Diana DeGette,CO,1,Democrat,F,1957-07-29,69.0,1997-01-07,29.5,15
+N000191,Joe Neguse,CO,2,Democrat,M,1984-05-13,42.2,2019-01-03,7.5,4
+H001100,Jeff Hurd,CO,3,Republican,M,1979-08-15,46.9,2025-01-03,1.5,1
+B000825,Lauren Boebert,CO,4,Republican,F,1986-12-15,39.6,2021-01-03,5.5,3
+C001137,Jeff Crank,CO,5,Republican,M,1967-01-28,59.5,2025-01-03,1.5,1
+C001121,Jason Crow,CO,6,Democrat,M,1979-03-15,47.3,2019-01-03,7.5,4
+P000620,Brittany Pettersen,CO,7,Democrat,F,1981-12-06,44.6,2023-01-03,3.5,2
+E000300,Gabe Evans,CO,8,Republican,M,1986-07-28,40.0,2025-01-03,1.5,1
+L000557,John B. Larson,CT,1,Democrat,M,1948-07-22,78.0,1999-01-06,27.5,14
+C001069,Joe Courtney,CT,2,Democrat,M,1953-04-06,73.3,2007-01-04,19.5,10
+D000216,Rosa L. DeLauro,CT,3,Democrat,F,1943-03-02,83.4,1991-01-03,35.5,18
+H001047,James A. Himes,CT,4,Democrat,M,1966-07-05,60.0,2009-01-06,17.5,9
+H001081,Jahana Hayes,CT,5,Democrat,F,1973-03-08,53.3,2019-01-03,7.5,4
+N000147,Eleanor Holmes Norton,DC,0,Democrat,F,1937-06-13,89.1,1991-01-03,35.5,18
+M001238,Sarah McBride,DE,0,Democrat,F,1990-08-09,35.9,2025-01-03,1.5,1
+P000622,Jimmy Patronis,FL,1,Republican,M,1972-04-13,54.3,2025-04-02,1.3,1
+D000628,Neal P. Dunn,FL,2,Republican,M,1953-02-16,73.4,2017-01-03,9.5,5
+C001039,Kat Cammack,FL,3,Republican,F,1988-02-16,38.4,2021-01-03,5.5,3
+B001314,Aaron Bean,FL,4,Republican,M,1967-01-25,59.5,2023-01-03,3.5,2
+R000609,John H. Rutherford,FL,5,Republican,M,1952-09-02,73.9,2017-01-03,9.5,5
+F000484,Randy Fine,FL,6,Republican,M,1974-04-20,52.2,2025-04-02,1.3,1
+M001216,Cory Mills,FL,7,Republican,M,1980-07-30,46.0,2023-01-03,3.5,2
+H001099,Mike Haridopolos,FL,8,Republican,M,1970-03-15,56.3,2025-01-03,1.5,1
+S001200,Darren Soto,FL,9,Democrat,M,1978-02-25,48.4,2017-01-03,9.5,5
+F000476,Maxwell Frost,FL,10,Democrat,M,1997-01-17,29.5,2023-01-03,3.5,2
+W000806,Daniel Webster,FL,11,Republican,M,1949-04-27,77.2,2011-01-05,15.5,8
+B001257,Gus M. Bilirakis,FL,12,Republican,M,1963-02-08,63.4,2007-01-04,19.5,10
+L000596,Anna Paulina Luna,FL,13,Republican,F,1989-05-06,37.2,2023-01-03,3.5,2
+C001066,Kathy Castor,FL,14,Democrat,F,1966-08-20,59.9,2007-01-04,19.5,10
+L000597,Laurel M. Lee,FL,15,Republican,F,1974-03-26,52.3,2023-01-03,3.5,2
+B001260,Vern Buchanan,FL,16,Republican,M,1951-05-08,75.2,2007-01-04,19.5,10
+S001214,W. Gregory Steube,FL,17,Republican,M,1978-05-19,48.2,2019-01-03,7.5,4
+F000472,Scott Franklin,FL,18,Republican,M,1964-08-23,61.9,2021-01-03,5.5,3
+D000032,Byron Donalds,FL,19,Republican,M,1978-10-28,47.7,2021-01-03,5.5,3
+M001199,Brian J. Mast,FL,21,Republican,M,1980-07-10,46.0,2017-01-03,9.5,5
+F000462,Lois Frankel,FL,22,Democrat,F,1948-05-16,78.2,2013-01-03,13.5,7
+M001217,Jared Moskowitz,FL,23,Democrat,M,1980-12-18,45.6,2023-01-03,3.5,2
+W000808,Frederica S. Wilson,FL,24,Democrat,F,1942-11-05,83.7,2011-01-05,15.5,8
+W000797,Debbie Wasserman Schultz,FL,25,Democrat,F,1966-09-27,59.8,2005-01-04,21.5,11
+D000600,Mario Diaz-Balart,FL,26,Republican,M,1961-09-25,64.8,2003-01-07,23.5,12
+S000168,Maria Elvira Salazar,FL,27,Republican,F,1961-11-01,64.7,2021-01-03,5.5,3
+G000593,Carlos A. Gimenez,FL,28,Republican,M,1954-01-17,72.5,2021-01-03,5.5,3
+C001103,"Earl L. ""Buddy"" Carter",GA,1,Republican,M,1957-09-06,68.9,2015-01-06,11.5,6
+B000490,"Sanford D. Bishop, Jr.",GA,2,Democrat,M,1947-02-04,79.4,1993-01-05,33.5,17
+J000311,Brian Jack,GA,3,Republican,M,1988-02-17,38.4,2025-01-03,1.5,1
+J000288,"Henry C. ""Hank"" Johnson, Jr.",GA,4,Democrat,M,1954-10-02,71.8,2007-01-04,19.5,10
+W000788,Nikema Williams,GA,5,Democrat,F,1978-07-30,48.0,2021-01-03,5.5,3
+M001208,Lucy McBath,GA,6,Democrat,F,1960-06-01,66.1,2019-01-03,7.5,4
+M001218,Richard McCormick,GA,7,Republican,M,1968-10-07,57.8,2023-01-03,3.5,2
+S001189,Austin Scott,GA,8,Republican,M,1969-12-10,56.6,2011-01-05,15.5,8
+C001116,Andrew S. Clyde,GA,9,Republican,M,1963-11-22,62.6,2021-01-03,5.5,3
+C001129,Mike Collins,GA,10,Republican,M,1967-07-02,59.0,2023-01-03,3.5,2
+L000583,Barry Loudermilk,GA,11,Republican,M,1963-12-22,62.6,2015-01-06,11.5,6
+A000372,Rick W. Allen,GA,12,Republican,M,1951-11-07,74.7,2015-01-06,11.5,6
+F000485,Clay Fuller,GA,14,Republican,M,1981-04-09,45.3,2026-04-14,0.2,1
+M001219,James C. Moylan,GU,0,Republican,M,1962-07-18,64.0,2023-01-03,3.5,2
+C001055,Ed Case,HI,1,Democrat,M,1952-09-27,73.8,2003-01-07,23.5,6
+T000487,Jill N. Tokuda,HI,2,Democrat,F,1976-03-28,50.3,2023-01-03,3.5,2
+M001215,Mariannette Miller-Meeks,IA,1,Republican,F,1955-09-06,70.9,2021-01-03,5.5,3
+H001091,Ashley Hinson,IA,2,Republican,F,1983-06-27,43.0,2021-01-03,5.5,3
+N000193,Zachary Nunn,IA,3,Republican,M,1979-05-04,47.2,2023-01-03,3.5,2
+F000446,Randy Feenstra,IA,4,Republican,M,1969-01-14,57.5,2021-01-03,5.5,3
+F000469,Russ Fulcher,ID,1,Republican,M,1962-03-09,64.3,2019-01-03,7.5,4
+S001148,Michael K. Simpson,ID,2,Republican,M,1950-09-08,75.8,1999-01-06,27.5,14
+J000309,Jonathan L. Jackson,IL,1,Democrat,M,1966-01-07,60.5,2023-01-03,3.5,2
+K000385,Robin L. Kelly,IL,2,Democrat,F,1956-04-30,70.2,2013-04-09,13.3,7
+R000617,Delia C. Ramirez,IL,3,Democrat,F,1983-06-02,43.1,2023-01-03,3.5,2
+G000586,"Jesús G. ""Chuy"" García",IL,4,Democrat,M,1956-04-12,70.3,2019-01-03,7.5,4
+Q000023,Mike Quigley,IL,5,Democrat,M,1958-10-17,67.7,2009-04-07,17.3,9
+C001117,Sean Casten,IL,6,Democrat,M,1971-11-23,54.6,2019-01-03,7.5,4
+D000096,Danny K. Davis,IL,7,Democrat,M,1941-09-06,84.9,1997-01-07,29.5,15
+K000391,Raja Krishnamoorthi,IL,8,Democrat,M,1973-07-19,53.0,2017-01-03,9.5,5
+S001145,Janice D. Schakowsky,IL,9,Democrat,F,1944-05-26,82.1,1999-01-06,27.5,14
+S001190,Bradley Scott Schneider,IL,10,Democrat,M,1961-08-20,64.9,2013-01-03,13.5,6
+F000454,Bill Foster,IL,11,Democrat,M,1955-10-07,70.8,2008-03-08,18.3,9
+B001295,Mike Bost,IL,12,Republican,M,1960-12-30,65.5,2015-01-06,11.5,6
+B001315,Nikki Budzinski,IL,13,Democrat,F,1977-03-11,49.3,2023-01-03,3.5,2
+U000040,Lauren Underwood,IL,14,Democrat,F,1986-10-04,39.8,2019-01-03,7.5,4
+M001211,Mary E. Miller,IL,15,Republican,F,1959-08-27,66.9,2021-01-03,5.5,3
+L000585,Darin LaHood,IL,16,Republican,M,1968-07-05,58.0,2015-09-17,10.8,6
+S001225,Eric Sorensen,IL,17,Democrat,M,1976-03-18,50.3,2023-01-03,3.5,2
+M001214,Frank J. Mrvan,IN,1,Democrat,M,1969-04-16,57.2,2021-01-03,5.5,3
+Y000067,Rudy Yakym III,IN,2,Republican,M,1984-02-24,42.4,2022-11-14,3.7,3
+S001188,Marlin A. Stutzman,IN,3,Republican,M,1976-08-31,49.9,2010-11-16,15.7,5
+B001307,James R. Baird,IN,4,Republican,M,1945-06-04,81.1,2019-01-03,7.5,4
+S000929,Victoria Spartz,IN,5,Republican,F,1978-10-06,47.8,2021-01-03,5.5,3
+S001229,Jefferson Shreve,IN,6,Republican,M,1965-09-24,60.8,2025-01-03,1.5,1
+C001072,André Carson,IN,7,Democrat,M,1974-10-16,51.7,2008-03-13,18.3,10
+M001233,Mark B. Messmer,IN,8,Republican,M,1967-12-16,58.6,2025-01-03,1.5,1
+H001093,Erin Houchin,IN,9,Republican,F,1976-09-24,49.8,2023-01-03,3.5,2
+M000871,Tracey Mann,KS,1,Republican,M,1976-12-17,49.6,2021-01-03,5.5,3
+S001228,Derek Schmidt,KS,2,Republican,M,1968-01-23,58.5,2025-01-03,1.5,1
+D000629,Sharice Davids,KS,3,Democrat,F,1980-05-22,46.1,2019-01-03,7.5,4
+E000298,Ron Estes,KS,4,Republican,M,1956-07-19,70.0,2017-04-25,9.2,5
+C001108,James Comer,KY,1,Republican,M,1972-08-19,53.9,2016-11-14,9.7,6
+G000558,Brett Guthrie,KY,2,Republican,M,1964-02-18,62.4,2009-01-06,17.5,9
+M001220,Morgan McGarvey,KY,3,Democrat,M,1979-12-23,46.6,2023-01-03,3.5,2
+M001184,Thomas Massie,KY,4,Republican,M,1971-01-13,55.5,2012-11-13,13.7,8
+R000395,Harold Rogers,KY,5,Republican,M,1937-12-31,88.5,1981-01-05,45.5,23
+B001282,Andy Barr,KY,6,Republican,M,1973-07-24,53.0,2013-01-03,13.5,7
+S001176,Steve Scalise,LA,1,Republican,M,1965-10-06,60.8,2008-05-07,18.2,10
+C001125,Troy A. Carter,LA,2,Democrat,M,1963-10-26,62.7,2021-05-11,5.2,3
+H001077,Clay Higgins,LA,3,Republican,M,1961-08-24,64.9,2017-01-03,9.5,5
+J000299,Mike Johnson,LA,4,Republican,M,1972-01-30,54.5,2017-01-03,9.5,5
+L000595,Julia Letlow,LA,5,Republican,F,1981-03-16,45.3,2021-04-14,5.2,3
+F000110,Cleo Fields,LA,6,Democrat,M,1962-11-22,63.6,1993-01-05,33.5,3
+N000015,Richard E. Neal,MA,1,Democrat,M,1949-02-14,77.4,1989-01-03,37.5,19
+M000312,James P. McGovern,MA,2,Democrat,M,1959-11-20,66.6,1997-01-07,29.5,15
+T000482,Lori Trahan,MA,3,Democrat,F,1973-10-27,52.7,2019-01-03,7.5,4
+A000148,Jake Auchincloss,MA,4,Democrat,M,1988-01-29,38.5,2021-01-03,5.5,3
+C001101,Katherine M. Clark,MA,5,Democrat,F,1963-07-17,63.0,2013-12-12,12.6,7
+M001196,Seth Moulton,MA,6,Democrat,M,1978-10-24,47.7,2015-01-06,11.5,6
+P000617,Ayanna Pressley,MA,7,Democrat,F,1974-02-03,52.4,2019-01-03,7.5,4
+L000562,Stephen F. Lynch,MA,8,Democrat,M,1955-03-31,71.3,2001-10-23,24.7,13
+K000375,William R. Keating,MA,9,Democrat,M,1952-09-06,73.9,2011-01-05,15.5,8
+H001052,Andy Harris,MD,1,Republican,M,1957-01-25,69.5,2011-01-05,15.5,8
+O000176,"Johnny Olszewski, Jr.",MD,2,Democrat,M,1982-09-10,43.8,2025-01-03,1.5,1
+E000301,Sarah Elfreth,MD,3,Democrat,F,1988-09-09,37.8,2025-01-03,1.5,1
+I000058,Glenn Ivey,MD,4,Democrat,M,1961-02-27,65.4,2023-01-03,3.5,2
+H000874,Steny H. Hoyer,MD,5,Democrat,M,1939-06-14,87.1,1981-01-05,45.5,23
+M001232,April McClain Delaney,MD,6,Democrat,F,1964-05-28,62.1,2025-01-03,1.5,1
+M000687,Kweisi Mfume,MD,7,Democrat,M,1948-10-24,77.7,1987-01-06,39.5,9
+R000606,Jamie Raskin,MD,8,Democrat,M,1962-12-13,63.6,2017-01-03,9.5,5
+P000597,Chellie Pingree,ME,1,Democrat,F,1955-04-02,71.3,2009-01-06,17.5,9
+G000592,Jared F. Golden,ME,2,Democrat,M,1982-07-25,44.0,2019-01-03,7.5,4
+B001301,Jack Bergman,MI,1,Republican,M,1947-02-02,79.4,2017-01-03,9.5,5
+M001194,John R. Moolenaar,MI,2,Republican,M,1961-05-08,65.2,2015-01-06,11.5,6
+S001221,Hillary J. Scholten,MI,3,Democrat,F,1982-02-22,44.4,2023-01-03,3.5,2
+H001058,Bill Huizenga,MI,4,Republican,M,1969-01-31,57.4,2011-01-05,15.5,8
+W000798,Tim Walberg,MI,5,Republican,M,1951-04-12,75.3,2007-01-04,19.5,9
+D000624,Debbie Dingell,MI,6,Democrat,F,1953-11-23,72.6,2015-01-06,11.5,6
+B001321,Tom Barrett,MI,7,Republican,M,1981-04-30,45.2,2025-01-03,1.5,1
+M001237,Kristen McDonald Rivet,MI,8,Democrat,F,1970-07-11,56.0,2025-01-03,1.5,1
+M001136,Lisa C. McClain,MI,9,Republican,F,1966-04-07,60.3,2021-01-03,5.5,3
+J000307,John James,MI,10,Republican,M,1981-06-08,45.1,2023-01-03,3.5,2
+S001215,Haley M. Stevens,MI,11,Democrat,F,1983-06-24,43.1,2019-01-03,7.5,4
+T000481,Rashida Tlaib,MI,12,Democrat,F,1976-07-24,50.0,2019-01-03,7.5,4
+T000488,Shri Thanedar,MI,13,Democrat,M,1955-02-22,71.4,2023-01-03,3.5,2
+F000475,Brad Finstad,MN,1,Republican,M,1976-05-30,50.1,2022-08-12,3.9,3
+C001119,Angie Craig,MN,2,Democrat,F,1972-02-14,54.4,2019-01-03,7.5,4
+M001234,Kelly Morrison,MN,3,Democrat,F,1969-02-02,57.4,2025-01-03,1.5,1
+M001143,Betty McCollum,MN,4,Democrat,F,1954-07-12,72.0,2001-01-03,25.5,13
+O000173,Ilhan Omar,MN,5,Democrat,F,1981-10-04,44.8,2019-01-03,7.5,4
+E000294,Tom Emmer,MN,6,Republican,M,1961-03-03,65.4,2015-01-06,11.5,6
+F000470,Michelle Fischbach,MN,7,Republican,F,1965-11-03,60.7,2021-01-03,5.5,3
+S001212,Pete Stauber,MN,8,Republican,M,1966-05-10,60.2,2019-01-03,7.5,4
+B001324,Wesley Bell,MO,1,Democrat,M,1974-11-05,51.7,2025-01-03,1.5,1
+W000812,Ann Wagner,MO,2,Republican,F,1962-09-13,63.8,2013-01-03,13.5,7
+O000177,"Robert F. Onder, Jr.",MO,3,Republican,M,1962-01-06,64.5,2025-01-03,1.5,1
+A000379,Mark Alford,MO,4,Republican,M,1963-10-04,62.8,2023-01-03,3.5,2
+C001061,Emanuel Cleaver,MO,5,Democrat,M,1944-10-26,81.7,2005-01-04,21.5,11
+G000546,Sam Graves,MO,6,Republican,M,1963-11-07,62.7,2001-01-03,25.5,13
+B001316,Eric Burlison,MO,7,Republican,M,1976-10-02,49.8,2023-01-03,3.5,2
+S001195,Jason Smith,MO,8,Republican,M,1980-06-16,46.1,2013-06-04,13.1,7
+K000404,Kimberlyn King-Hinds,MP,0,Republican,F,1975-04-10,51.3,2025-01-03,1.5,1
+K000388,Trent Kelly,MS,1,Republican,M,1966-03-01,60.4,2015-06-09,11.1,6
+T000193,Bennie G. Thompson,MS,2,Democrat,M,1948-01-28,78.5,1993-04-13,33.3,17
+G000591,Michael Guest,MS,3,Republican,M,1970-02-04,56.4,2019-01-03,7.5,4
+E000235,Mike Ezell,MS,4,Republican,M,1959-04-06,67.3,2023-01-03,3.5,2
+Z000018,Ryan K. Zinke,MT,1,Republican,M,1961-11-01,64.7,2015-01-06,11.5,4
+D000634,Troy Downing,MT,2,Republican,M,1967-03-04,59.4,2025-01-03,1.5,1
+D000230,Donald G. Davis,NC,1,Democrat,M,1971-08-29,54.9,2023-01-03,3.5,2
+R000305,Deborah K. Ross,NC,2,Democrat,F,1963-06-20,63.1,2021-01-03,5.5,3
+M001210,Gregory F. Murphy,NC,3,Republican,M,1963-03-05,63.4,2019-09-17,6.8,4
+F000477,Valerie P. Foushee,NC,4,Democrat,F,1956-05-07,70.2,2023-01-03,3.5,2
+F000450,Virginia Foxx,NC,5,Republican,F,1943-06-29,83.0,2005-01-04,21.5,11
+M001240,Addison P. McDowell,NC,6,Republican,M,1994-01-21,32.5,2025-01-03,1.5,1
+R000603,David Rouzer,NC,7,Republican,M,1972-02-16,54.4,2015-01-06,11.5,6
+H001102,Mark Harris,NC,8,Republican,M,1966-04-24,60.2,2025-01-03,1.5,1
+H001067,Richard Hudson,NC,9,Republican,M,1971-11-04,54.7,2013-01-03,13.5,7
+H001101,Pat Harrigan,NC,10,Republican,M,1987-06-21,39.1,2025-01-03,1.5,1
+E000246,Chuck Edwards,NC,11,Republican,M,1960-09-13,65.8,2023-01-03,3.5,2
+A000370,Alma S. Adams,NC,12,Democrat,F,1946-05-27,80.1,2014-11-12,11.7,7
+K000405,Brad Knott,NC,13,Republican,M,1986-04-17,40.2,2025-01-03,1.5,1
+M001236,Tim Moore,NC,14,Republican,M,1970-10-02,55.8,2025-01-03,1.5,1
+F000482,Julie Fedorchak,ND,0,Republican,F,1968-09-28,57.8,2025-01-03,1.5,1
+F000474,Mike Flood,NE,1,Republican,M,1975-02-23,51.4,2022-07-12,4.0,3
+B001298,Don Bacon,NE,2,Republican,M,1963-08-16,62.9,2017-01-03,9.5,5
+S001172,Adrian Smith,NE,3,Republican,M,1970-12-19,55.6,2007-01-04,19.5,10
+P000614,Chris Pappas,NH,1,Democrat,M,1980-06-04,46.1,2019-01-03,7.5,4
+G000604,Maggie Goodlander,NH,2,Democrat,F,1986-11-04,39.7,2025-01-03,1.5,1
+N000188,Donald Norcross,NJ,1,Democrat,M,1958-12-13,67.6,2014-11-12,11.7,7
+V000133,Jefferson Van Drew,NJ,2,Republican,M,1953-02-23,73.4,2019-01-03,7.5,4
+C001136,"Herbert C. Conaway, Jr.",NJ,3,Democrat,M,1963-01-30,63.5,2025-01-03,1.5,1
+S000522,Christopher H. Smith,NJ,4,Republican,M,1953-03-04,73.4,1981-01-05,45.5,23
+G000583,Josh Gottheimer,NJ,5,Democrat,M,1975-03-08,51.4,2017-01-03,9.5,5
+P000034,"Frank Pallone, Jr.",NJ,6,Democrat,M,1951-10-30,74.7,1987-01-06,39.5,20
+K000398,"Thomas H. Kean, Jr.",NJ,7,Republican,M,1968-09-05,57.9,2023-01-03,3.5,2
+M001226,Robert Menendez,NJ,8,Democrat,M,1985-07-12,41.0,2023-01-03,3.5,2
+P000621,Nellie Pou,NJ,9,Democrat,F,1956-05-20,70.1,2025-01-03,1.5,1
+M001229,LaMonica McIver,NJ,10,Democrat,F,1986-06-20,40.1,2024-09-18,1.8,2
+M001246,Analilia Mejia,NJ,11,Democrat,F,1977-08-19,48.9,2026-04-20,0.2,1
+W000822,Bonnie Watson Coleman,NJ,12,Democrat,F,1945-02-06,81.4,2015-01-06,11.5,6
+S001218,Melanie A. Stansbury,NM,1,Democrat,F,1979-01-31,47.4,2021-06-14,5.1,3
+V000136,Gabe Vasquez,NM,2,Democrat,M,1984-08-03,41.9,2023-01-03,3.5,2
+L000273,Teresa Leger Fernandez,NM,3,Democrat,F,1959-07-01,67.0,2021-01-03,5.5,3
+T000468,Dina Titus,NV,1,Democrat,F,1950-05-23,76.1,2009-01-06,17.5,8
+A000369,Mark E. Amodei,NV,2,Republican,M,1958-06-12,68.1,2011-09-13,14.8,8
+L000590,Susie Lee,NV,3,Democrat,F,1966-11-07,59.7,2019-01-03,7.5,4
+H001066,Steven Horsford,NV,4,Democrat,M,1973-04-29,53.2,2013-01-03,13.5,5
+L000598,Nick LaLota,NY,1,Republican,M,1978-06-23,48.1,2023-01-03,3.5,2
+G000597,Andrew R. Garbarino,NY,2,Republican,M,1984-09-27,41.8,2021-01-03,5.5,3
+S001201,Thomas R. Suozzi,NY,3,Democrat,M,1962-08-31,63.9,2017-01-03,9.5,5
+G000602,Laura Gillen,NY,4,Democrat,F,1969-07-10,57.0,2025-01-03,1.5,1
+M001137,Gregory W. Meeks,NY,5,Democrat,M,1953-09-25,72.8,1997-01-07,29.5,15
+M001188,Grace Meng,NY,6,Democrat,F,1975-10-01,50.8,2013-01-03,13.5,7
+V000081,Nydia M. Velázquez,NY,7,Democrat,F,1953-03-28,73.3,1993-01-05,33.5,17
+J000294,Hakeem S. Jeffries,NY,8,Democrat,M,1970-08-04,55.9,2013-01-03,13.5,7
+C001067,Yvette D. Clarke,NY,9,Democrat,F,1964-11-21,61.6,2007-01-04,19.5,10
+G000599,Daniel S. Goldman,NY,10,Democrat,M,1976-02-26,50.4,2023-01-03,3.5,2
+M000317,Nicole Malliotakis,NY,11,Republican,F,1980-11-11,45.7,2021-01-03,5.5,3
+N000002,Jerrold Nadler,NY,12,Democrat,M,1947-06-13,79.1,1992-11-03,33.7,18
+E000297,Adriano Espaillat,NY,13,Democrat,M,1954-09-27,71.8,2017-01-03,9.5,5
+O000172,Alexandria Ocasio-Cortez,NY,14,Democrat,F,1989-10-13,36.8,2019-01-03,7.5,4
+T000486,Ritchie Torres,NY,15,Democrat,M,1988-03-12,38.3,2021-01-03,5.5,3
+L000606,George Latimer,NY,16,Democrat,M,1953-11-22,72.6,2025-01-03,1.5,1
+L000599,Michael Lawler,NY,17,Republican,M,1986-09-09,39.8,2023-01-03,3.5,2
+R000579,Patrick Ryan,NY,18,Democrat,M,1982-03-28,44.3,2022-09-13,3.8,3
+R000622,Josh Riley,NY,19,Democrat,M,1981-01-21,45.5,2025-01-03,1.5,1
+T000469,Paul Tonko,NY,20,Democrat,M,1949-06-18,77.1,2009-01-06,17.5,9
+S001196,Elise M. Stefanik,NY,21,Republican,F,1984-07-02,42.0,2015-01-06,11.5,6
+M001231,John W. Mannion,NY,22,Democrat,M,1968-07-08,58.0,2025-01-03,1.5,1
+L000600,Nicholas A. Langworthy,NY,23,Republican,M,1981-02-27,45.4,2023-01-03,3.5,2
+T000478,Claudia Tenney,NY,24,Republican,F,1961-02-04,65.4,2017-01-03,9.5,4
+M001206,Joseph D. Morelle,NY,25,Democrat,M,1957-04-29,69.2,2018-11-13,7.7,5
+K000402,Timothy M. Kennedy,NY,26,Democrat,M,1976-10-20,49.7,2024-05-06,2.2,2
+L000601,Greg Landsman,OH,1,Democrat,M,1976-12-04,49.6,2023-01-03,3.5,2
+T000490,David J. Taylor,OH,2,Republican,M,1969-11-16,56.7,2025-01-03,1.5,1
+B001281,Joyce Beatty,OH,3,Democrat,F,1950-03-12,76.3,2013-01-03,13.5,7
+J000289,Jim Jordan,OH,4,Republican,M,1964-02-17,62.4,2007-01-04,19.5,10
+L000566,Robert E. Latta,OH,5,Republican,M,1956-04-18,70.2,2007-12-13,18.6,10
+R000619,Michael A. Rulli,OH,6,Republican,M,1969-03-11,57.3,2024-06-11,2.1,2
+M001222,Max L. Miller,OH,7,Republican,M,1988-11-13,37.7,2023-01-03,3.5,2
+D000626,Warren Davidson,OH,8,Republican,M,1970-03-01,56.4,2016-06-09,10.1,6
+K000009,Marcy Kaptur,OH,9,Democrat,F,1946-06-17,80.1,1983-01-03,43.5,22
+T000463,Michael R. Turner,OH,10,Republican,M,1960-01-11,66.5,2003-01-07,23.5,12
+B001313,Shontel M. Brown,OH,11,Democrat,F,1975-06-24,51.1,2021-11-04,4.7,3
+B001306,Troy Balderson,OH,12,Republican,M,1962-01-16,64.5,2018-09-05,7.9,5
+S001223,Emilia Strong Sykes,OH,13,Democrat,F,1986-01-04,40.5,2023-01-03,3.5,2
+J000295,David P. Joyce,OH,14,Republican,M,1957-03-17,69.3,2013-01-03,13.5,7
+C001126,Mike Carey,OH,15,Republican,M,1971-03-13,55.3,2021-11-04,4.7,3
+H001082,Kevin Hern,OK,1,Republican,M,1961-12-04,64.6,2018-11-13,7.7,5
+B001317,Josh Brecheen,OK,2,Republican,M,1979-06-19,47.1,2023-01-03,3.5,2
+L000491,Frank D. Lucas,OK,3,Republican,M,1960-01-06,66.5,1993-05-10,33.2,17
+C001053,Tom Cole,OK,4,Republican,M,1949-04-28,77.2,2003-01-07,23.5,12
+B000740,Stephanie I. Bice,OK,5,Republican,F,1973-11-11,52.7,2021-01-03,5.5,3
+B001278,Suzanne Bonamici,OR,1,Democrat,F,1954-10-14,71.7,2012-02-07,14.4,8
+B000668,Cliff Bentz,OR,2,Republican,M,1952-01-12,74.5,2021-01-03,5.5,3
+D000635,Maxine Dexter,OR,3,Democrat,F,1972-12-05,53.6,2025-01-03,1.5,1
+H001094,Val T. Hoyle,OR,4,Democrat,F,1964-02-14,62.4,2023-01-03,3.5,2
+B001326,Janelle S. Bynum,OR,5,Democrat,F,1975-01-31,51.4,2025-01-03,1.5,1
+S001226,Andrea Salinas,OR,6,Democrat,F,1969-12-06,56.6,2023-01-03,3.5,2
+F000466,Brian K. Fitzpatrick,PA,1,Republican,M,1973-12-17,52.6,2017-01-03,9.5,5
+B001296,Brendan F. Boyle,PA,2,Democrat,M,1977-02-06,49.4,2015-01-06,11.5,6
+E000296,Dwight Evans,PA,3,Democrat,M,1954-05-16,72.2,2016-11-14,9.7,6
+D000631,Madeleine Dean,PA,4,Democrat,F,1959-06-06,67.1,2019-01-03,7.5,4
+S001205,Mary Gay Scanlon,PA,5,Democrat,F,1959-08-30,66.9,2018-11-13,7.7,5
+H001085,Chrissy Houlahan,PA,6,Democrat,F,1967-06-05,59.1,2019-01-03,7.5,4
+M001230,Ryan Mackenzie,PA,7,Republican,M,1982-08-03,43.9,2025-01-03,1.5,1
+B001327,"Robert P. Bresnahan, Jr.",PA,8,Republican,M,1990-04-22,36.2,2025-01-03,1.5,1
+M001204,Daniel Meuser,PA,9,Republican,M,1964-02-10,62.4,2019-01-03,7.5,4
+P000605,Scott Perry,PA,10,Republican,M,1962-05-27,64.1,2013-01-03,13.5,7
+S001199,Lloyd Smucker,PA,11,Republican,M,1964-01-23,62.5,2017-01-03,9.5,5
+L000602,Summer L. Lee,PA,12,Democrat,F,1987-11-26,38.6,2023-01-03,3.5,2
+J000302,John Joyce,PA,13,Republican,M,1957-02-08,69.4,2019-01-03,7.5,4
+R000610,Guy Reschenthaler,PA,14,Republican,M,1983-04-17,43.2,2019-01-03,7.5,4
+T000467,Glenn Thompson,PA,15,Republican,M,1959-07-27,67.0,2009-01-06,17.5,9
+K000376,Mike Kelly,PA,16,Republican,M,1948-05-10,78.2,2011-01-05,15.5,8
+D000530,Christopher R. Deluzio,PA,17,Democrat,M,1984-07-13,42.0,2023-01-03,3.5,2
+H001103,Pablo José Hernández,PR,0,Democrat,M,1991-05-11,35.2,2025-01-03,1.5,1
+A000380,Gabe Amo,RI,1,Democrat,M,1987-12-11,38.6,2023-11-07,2.7,2
+M001223,Seth Magaziner,RI,2,Democrat,M,1983-07-22,43.0,2023-01-03,3.5,2
+M000194,Nancy Mace,SC,1,Republican,F,1977-12-04,48.6,2021-01-03,5.5,3
+W000795,Joe Wilson,SC,2,Republican,M,1947-07-31,79.0,2001-12-18,24.6,13
+B001325,Sheri Biggs,SC,3,Republican,F,1970-03-28,56.3,2025-01-03,1.5,1
+T000480,William R. Timmons IV,SC,4,Republican,M,1984-04-30,42.2,2019-01-03,7.5,4
+N000190,Ralph Norman,SC,5,Republican,M,1953-06-20,73.1,2017-06-26,9.0,5
+C000537,James E. Clyburn,SC,6,Democrat,M,1940-07-21,86.0,1993-01-05,33.5,17
+F000478,Russell Fry,SC,7,Republican,M,1985-01-31,41.4,2023-01-03,3.5,2
+J000301,Dusty Johnson,SD,0,Republican,M,1976-09-30,49.8,2019-01-03,7.5,4
+H001086,Diana Harshbarger,TN,1,Republican,F,1960-01-01,66.5,2021-01-03,5.5,3
+B001309,Tim Burchett,TN,2,Republican,M,1964-08-25,61.9,2019-01-03,7.5,4
+F000459,"Charles J. ""Chuck"" Fleischmann",TN,3,Republican,M,1962-10-11,63.8,2011-01-05,15.5,8
+D000616,Scott DesJarlais,TN,4,Republican,M,1964-02-21,62.4,2011-01-05,15.5,8
+O000175,Andrew Ogles,TN,5,Republican,M,1971-06-18,55.1,2023-01-03,3.5,2
+R000612,John W. Rose,TN,6,Republican,M,1965-02-23,61.4,2019-01-03,7.5,4
+V000139,Matt Van Epps,TN,7,Republican,M,1983-03-29,43.3,2025-12-04,0.6,1
+K000392,David Kustoff,TN,8,Republican,M,1966-10-08,59.8,2017-01-03,9.5,5
+C001068,Steve Cohen,TN,9,Democrat,M,1949-05-24,77.1,2007-01-04,19.5,10
+M001224,Nathaniel Moran,TX,1,Republican,M,1974-07-22,52.0,2023-01-03,3.5,2
+C001120,Dan Crenshaw,TX,2,Republican,M,1984-03-14,42.3,2019-01-03,7.5,4
+S001224,Keith Self,TX,3,Republican,M,1953-03-20,73.3,2023-01-03,3.5,2
+F000246,Pat Fallon,TX,4,Republican,M,1967-12-19,58.6,2021-01-03,5.5,3
+G000589,Lance Gooden,TX,5,Republican,M,1982-12-01,43.6,2019-01-03,7.5,4
+E000071,Jake Ellzey,TX,6,Republican,M,1970-01-24,56.5,2021-07-30,5.0,3
+F000468,Lizzie Fletcher,TX,7,Democrat,F,1975-02-13,51.4,2019-01-03,7.5,4
+L000603,Morgan Luttrell,TX,8,Republican,M,1975-11-07,50.7,2023-01-03,3.5,2
+G000553,Al Green,TX,9,Democrat,M,1947-09-01,78.9,2005-01-04,21.5,11
+M001157,Michael T. McCaul,TX,10,Republican,M,1962-01-14,64.5,2005-01-04,21.5,11
+P000048,August Pfluger,TX,11,Republican,M,1978-12-28,47.5,2021-01-03,5.5,3
+G000601,Craig A. Goldman,TX,12,Republican,M,1968-10-03,57.8,2025-01-03,1.5,1
+J000304,Ronny Jackson,TX,13,Republican,M,1967-05-04,59.2,2021-01-03,5.5,3
+W000814,"Randy K. Weber, Sr.",TX,14,Republican,M,1953-07-02,73.0,2013-01-03,13.5,7
+D000594,Monica De La Cruz,TX,15,Republican,F,1974-11-11,51.7,2023-01-03,3.5,2
+E000299,Veronica Escobar,TX,16,Democrat,F,1969-09-15,56.8,2019-01-03,7.5,4
+S000250,Pete Sessions,TX,17,Republican,M,1955-03-22,71.3,1997-01-07,29.5,14
+M001245,Christian D. Menefee,TX,18,Democrat,M,1988-04-18,38.2,2026-02-02,0.4,1
+A000375,Jodey C. Arrington,TX,19,Republican,M,1972-03-09,54.3,2017-01-03,9.5,5
+C001091,Joaquin Castro,TX,20,Democrat,M,1974-09-16,51.8,2013-01-03,13.5,7
+R000614,Chip Roy,TX,21,Republican,M,1972-08-07,53.9,2019-01-03,7.5,4
+N000026,Troy E. Nehls,TX,22,Republican,M,1968-04-07,58.3,2021-01-03,5.5,3
+V000134,Beth Van Duyne,TX,24,Republican,F,1970-11-16,55.7,2021-01-03,5.5,3
+W000816,Roger Williams,TX,25,Republican,M,1949-09-13,76.8,2013-01-03,13.5,7
+G000603,Brandon Gill,TX,26,Republican,M,1994-02-26,32.4,2025-01-03,1.5,1
+C001115,Michael Cloud,TX,27,Republican,M,1975-05-13,51.2,2018-07-10,8.0,5
+C001063,Henry Cuellar,TX,28,Democrat,M,1955-09-19,70.8,2005-01-04,21.5,11
+G000587,Sylvia R. Garcia,TX,29,Democrat,F,1950-09-06,75.9,2019-01-03,7.5,4
+C001130,Jasmine Crockett,TX,30,Democrat,F,1981-03-29,45.3,2023-01-03,3.5,2
+C001051,John R. Carter,TX,31,Republican,M,1941-11-06,84.7,2003-01-07,23.5,12
+J000310,Julie Johnson,TX,32,Democrat,F,1966-05-02,60.2,2025-01-03,1.5,1
+V000131,Marc A. Veasey,TX,33,Democrat,M,1971-01-03,55.5,2013-01-03,13.5,7
+G000581,Vicente Gonzalez,TX,34,Democrat,M,1967-09-04,58.9,2017-01-03,9.5,5
+C001131,Greg Casar,TX,35,Democrat,M,1989-05-04,37.2,2023-01-03,3.5,2
+B001291,Brian Babin,TX,36,Republican,M,1948-03-23,78.3,2015-01-06,11.5,6
+D000399,Lloyd Doggett,TX,37,Democrat,M,1946-10-06,79.8,1995-01-04,31.5,16
+H001095,Wesley Hunt,TX,38,Republican,M,1981-11-13,44.7,2023-01-03,3.5,2
+M001213,Blake D. Moore,UT,1,Republican,M,1980-06-22,46.1,2021-01-03,5.5,3
+M001228,Celeste Maloy,UT,2,Republican,F,1981-05-22,45.1,2023-11-21,2.6,2
+K000403,Mike Kennedy,UT,3,Republican,M,1969-02-02,57.4,2025-01-03,1.5,1
+O000086,Burgess Owens,UT,4,Republican,M,1951-08-02,74.9,2021-01-03,5.5,3
+W000804,Robert J. Wittman,VA,1,Republican,M,1959-02-03,67.4,2007-12-13,18.6,10
+K000399,Jennifer A. Kiggans,VA,2,Republican,F,1971-06-18,55.1,2023-01-03,3.5,2
+S000185,"Robert C. ""Bobby"" Scott",VA,3,Democrat,M,1947-04-30,79.2,1993-01-05,33.5,17
+M001227,Jennifer L. McClellan,VA,4,Democrat,F,1972-12-28,53.5,2023-03-07,3.4,2
+M001239,John J. McGuire III,VA,5,Republican,M,1968-08-24,57.9,2025-01-03,1.5,1
+C001118,Ben Cline,VA,6,Republican,M,1972-02-29,54.4,2019-01-03,7.5,4
+V000138,Eugene Simon Vindman,VA,7,Democrat,M,1975-06-06,51.1,2025-01-03,1.5,1
+B001292,"Donald S. Beyer, Jr.",VA,8,Democrat,M,1950-06-20,76.1,2015-01-06,11.5,6
+G000568,H. Morgan Griffith,VA,9,Republican,M,1958-03-15,68.3,2011-01-05,15.5,8
+S001230,Suhas Subramanyam,VA,10,Democrat,M,1986-09-26,39.8,2025-01-03,1.5,1
+W000831,James R. Walkinshaw,VA,11,Democrat,M,1982-10-22,43.7,2025-09-10,0.8,1
+P000610,Stacey E. Plaskett,VI,0,Democrat,F,1966-05-13,60.2,2015-01-06,11.5,6
+B001318,Becca Balint,VT,0,Democrat,F,1968-05-04,58.2,2023-01-03,3.5,2
+D000617,Suzan K. DelBene,WA,1,Democrat,F,1962-02-17,64.4,2012-11-13,13.7,8
+L000560,Rick Larsen,WA,2,Democrat,M,1965-06-15,61.1,2001-01-03,25.5,13
+G000600,Marie Gluesenkamp Perez,WA,3,Democrat,F,1988-06-06,38.1,2023-01-03,3.5,2
+N000189,Dan Newhouse,WA,4,Republican,M,1955-07-10,71.0,2015-01-06,11.5,6
+B001322,Michael Baumgartner,WA,5,Republican,M,1975-12-13,50.6,2025-01-03,1.5,1
+R000621,Emily Randall,WA,6,Democrat,F,1985-10-30,40.7,2025-01-03,1.5,1
+J000298,Pramila Jayapal,WA,7,Democrat,F,1965-09-21,60.8,2017-01-03,9.5,5
+S001216,Kim Schrier,WA,8,Democrat,F,1968-08-23,57.9,2019-01-03,7.5,4
+S000510,Adam Smith,WA,9,Democrat,M,1965-06-15,61.1,1997-01-07,29.5,15
+S001159,Marilyn Strickland,WA,10,Democrat,F,1962-09-25,63.8,2021-01-03,5.5,3
+S001213,Bryan Steil,WI,1,Republican,M,1981-03-30,45.3,2019-01-03,7.5,4
+P000607,Mark Pocan,WI,2,Democrat,M,1964-08-14,61.9,2013-01-03,13.5,7
+V000135,Derrick Van Orden,WI,3,Republican,M,1969-09-15,56.8,2023-01-03,3.5,2
+M001160,Gwen Moore,WI,4,Democrat,F,1951-04-18,75.2,2005-01-04,21.5,11
+F000471,Scott Fitzgerald,WI,5,Republican,M,1963-11-16,62.7,2021-01-03,5.5,3
+G000576,Glenn Grothman,WI,6,Republican,M,1955-07-03,71.0,2015-01-06,11.5,6
+T000165,Thomas P. Tiffany,WI,7,Republican,M,1957-12-30,68.5,2020-05-19,6.2,4
+W000829,Tony Wied,WI,8,Republican,M,1976-05-03,50.2,2024-11-05,1.7,2
+M001205,Carol D. Miller,WV,1,Republican,F,1950-11-04,75.7,2019-01-03,7.5,4
+M001235,Riley M. Moore,WV,2,Republican,M,1980-07-01,46.0,2025-01-03,1.5,1
+H001096,Harriet M. Hageman,WY,0,Republican,F,1962-10-18,63.7,2023-01-03,3.5,2
